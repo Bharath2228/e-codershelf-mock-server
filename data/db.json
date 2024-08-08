@@ -271,9 +271,9 @@
   ],
   "users": [
     {
-      "email": "bharath@example.com",
-      "password": "$2a$10$nXiIAMBipCe3qYU2rC/pM.elsQE.MWTY6q4jmObwetMIt/jxjMYuu",
-      "name": "Bharath",
+      "email": "codershelf@example.com",
+      "password": "$2a$10$McFqDpiQWVd14pR7okZV/e94XAzgko2BfjJf7.rtxH5j3d7p8iuOy",
+      "name": "Coder",
       "id": 1
     }
   ]
